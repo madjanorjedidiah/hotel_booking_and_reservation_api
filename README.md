@@ -16,7 +16,7 @@
      - **max_price** (100)
 
 ## Initial Project setup
-    git clone https://bitbucket.org/staykeepersdev/bookingengine.git
+    git clone https://github.com/madjanorjedidiah/hotel_booking_and_reservation_api.git
     python -m venv venv
     pip install -r requirements.txt
     python manage.py runserver
